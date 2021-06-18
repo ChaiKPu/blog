@@ -1,9 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Visit Profile"
+    url: https://netsec.studio
+  - title: "Project"
+    url: https://netsec.studio/projects.html
+  - title: "Comment policy"
+    url: https://netsec.studio/blog/comment-policy
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
