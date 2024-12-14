@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "NetSec Studio"
+title                    : "AppSec Studio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Chaitanya Purandare"
 description              : "Security is a process and not a one time product"
-url                      : "https://netsec.studio"
+url                      : "https://app-sec.net"
 baseurl                  : "/blog"
 repository               : "chaikpu/blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "netsec-studio"
+    shortname            : "app-sec-net"
 reCaptcha:
   siteKey                :
   secret                 :
@@ -91,13 +91,13 @@ author:
       url: "cp@netsec.studio"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://netsec.studio"
+      url: "https://app-sec.net"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chaikpu"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/chaitanyap_404"
+      url: "https://instagram.com/cp.snaps"
 
 # Site Footer
 footer:
@@ -107,7 +107,7 @@ footer:
       url: "https://github.com/chaikpu"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/chaitanyap_404"
+      url: "https://instagram.com/cp.snaps"
 
 
 # Reading Files
