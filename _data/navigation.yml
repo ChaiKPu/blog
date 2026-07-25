@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Visit Profile"
-    url: https://netsec.studio
+    url: https://app-sec.net
   - title: "Project"
-    url: https://netsec.studio/projects.html
+    url: https://app-sec.net/projects.html
   - title: "Comment policy"
-    url: https://netsec.studio/blog/comment-policy
+    url: https://app-sec.net/blog/comment-policy
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

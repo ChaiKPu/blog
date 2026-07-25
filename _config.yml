@@ -88,7 +88,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "cp@netsec.studio"
+      url: "cp@app-sec.net"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://app-sec.net"
